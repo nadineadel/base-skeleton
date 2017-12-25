@@ -5,7 +5,7 @@
   2- It is divided in objects and each contains the words related to it.
     eg.: Buttons will contain all the ect written uin button.
 */
-module.exports = {
+export default {
   buttons: {
 
   },
